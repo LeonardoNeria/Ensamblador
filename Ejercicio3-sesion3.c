@@ -14,7 +14,7 @@ int main(){
     int y = 10; // En binario es: 0000 1010
 
     // Operación AND (&): Da 1 solo donde ambos bits son 1
-    //  0000 1100 (12)
+    //   0000 1100 (12)
     // & 0000 1010 (10)
     // ----------------
     // 0000 1000 (8)
